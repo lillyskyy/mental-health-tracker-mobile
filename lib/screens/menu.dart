@@ -5,8 +5,8 @@ import 'package:mental_health_tracker/widgets/mood_card.dart';
 
 
 class MyHomePage extends StatelessWidget {
-  final String npm = '2306165534'; // NPM
-  final String name = 'Nur Khoirunnisa Salsabila'; // Nama
+  final String npm = '2306165572'; // NPM
+  final String name = 'Ananda Dwi Hanifa'; // Nama
   final String className = 'PBP A'; // Kelas
 
   MyHomePage({super.key});
