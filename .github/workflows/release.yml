@@ -45,6 +45,7 @@ jobs:
         env:
           KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
         run: flutter build apk --split-per-abi
+        
 
       - name: Get current date
         id: date
